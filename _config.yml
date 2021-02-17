@@ -1,13 +1,13 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: cantoota@naver.com
 baseurl: "/bsh-art.github.io"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: BSH
+title: BSH Portflio :)
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  방승화 디자인 포트폴리오
 url: http://barber.samesies.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
