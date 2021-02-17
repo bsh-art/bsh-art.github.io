@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: cantoota@naver.com
-baseurl: "/bsh-art.github.io"
+baseurl: "/"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
