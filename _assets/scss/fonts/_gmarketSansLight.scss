@@ -1,0 +1,28 @@
+//----------------------------------------------
+// Family: GmarketSans
+//
+// Regular: 400
+// Bold: 700
+//----------------------------------------------
+
+// lite
+@font-face {
+    font-family: 'GmarketSansLight';
+    src:local('GmarketSansLight'), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src:local('GmarketSansMedium'), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+// Bold
+@font-face {
+    font-family: 'GmarketSansBold';
+    src:local('GmarketSansBold'), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

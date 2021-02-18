@@ -1,16 +1,55 @@
 @font-face {
-  font-family: ELAND_Choice_M;
-  src: local("ELAND_Choice_M"), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Choice_M.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-  unicode-range: 
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: ELAND_Nice_M;
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+  font-family: Roboto;
   font-style: normal;
-  src: local("ELAND_Nice_M") url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Nice_M.woff') format('woff');
+  font-weight: 700;
+  src: local("Roboto Bold"), local("Roboto-Bold"), url(https://fonts.gstatic.com/s/roboto/v18/d-6IYplOFocCacKzxwXSOJBw1xU1rKptJj_0jans920.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
   font-weight: 400;
+  src: local("Roboto"), local("Roboto-Regular"), url(https://fonts.gstatic.com/s/roboto/v18/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215
+}
+
+@font-face {
+  font-family: Lora;
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lora Regular"), local("Lora-Regular"), url(https://fonts.gstatic.com/s/lora/v12/rAXKWvABQNHjPUk26ixVvvesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215
+}
+
+@font-face {
+  font-family: Lora;
+  font-style: normal;
+  font-weight: 700;
+  src: local("Lora Bold"), local("Lora-Bold"), url(https://fonts.gstatic.com/s/lora/v12/mlTYdpdDwCepOR2s5kS2CwLUuEpTyoUstqEm5AMlJo4.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215
 }
 
 @font-face {
@@ -1157,7 +1196,7 @@ input, textarea {
   width: 100%;
   max-width: 100%;
   padding: .75em .5em;
-  font-family: ELAND_Choice_M, sans-serif;
+  font-family: GmarketSansMedium, sans-serif;
   font-size: .9em;
   font-weight: 400;
   color: #000;
@@ -1324,7 +1363,7 @@ iframe {
 }
 
 body {
-  font-family: ELAND_Choice_M, sans-serif;
+  font-family: GmarketSansBold, sans-serif;
   line-height: 1.7;
   color: #000;
   background-color: #fff
@@ -1382,7 +1421,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2:not(.posts__text):not(.related__text) {
-  font-family: ELAND_Nice_M, serif;
+  font-family: GmarketSansMedium, sans-serif;
   font-size: 2em;
   line-height: 1.4
 }
@@ -1400,7 +1439,7 @@ p {
 
 blockquote, q {
   margin: 0 0 1.5rem;
-  font-family: ELAND_Choice_M, serif;
+  font-family: GmarketSansMedium, serif;
   font-weight: 400;
   font-size: 1.25em;
   color: #000;
@@ -1415,7 +1454,7 @@ blockquote, q {
 
 cite {
   display: block;
-  font-family: ELAND_Choice_M, sans-serif;
+  font-family: GmarketSansMedium, sans-serif;
   font-size: .6em;
   font-style: normal;
   color: #000;
@@ -2000,7 +2039,7 @@ main {
 }
 
 #style-guide #markdown, .post-layout #markdown {
-  font-family: ELAND_Choice_M, sans-serif
+  font-family: GmarketSansMedium, sans-serif
 }
 
 #markdown>* {
@@ -2017,7 +2056,7 @@ main {
 
 #markdown h1, #markdown h2, #markdown h3, #markdown h4, #markdown h5, #markdown h6 {
   margin-bottom: .5rem;
-  font-family: ELAND_Choice_M, sans-serif
+  font-family: GmarketSansMedium, sans-serif
 }
 
 #markdown h1 {
