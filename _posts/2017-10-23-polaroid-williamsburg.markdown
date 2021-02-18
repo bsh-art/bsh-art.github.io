@@ -3,7 +3,7 @@ layout: post
 title: "Polaroid Williamsburg"
 date: 2017-10-23
 description:
-image: /assets/images/cncicd2
+image: /assets/images/cncicd2.jpg
 author: Thomas Vaeth
 tags:
   - Dummy Text
