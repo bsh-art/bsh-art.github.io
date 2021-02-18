@@ -28,15 +28,15 @@ PC 웹 / M 워드프레스 별도로 운영되는 가이드라인에 맞추어 M
 #### PC
 
 
-![pc kor](/assets/images/cncicd3.jpg)
+![pc kor](/assets/images/cncicd3.jpg#full)
 
 #### 모바일
-![Mobile kor](/assets/images/cncicd4.jpg)
+![Mobile kor](/assets/images/cncicd4.jpg#full)
 
-![pc kor](/assets/images/yeondu_pc.jpg)
+![pc kor](/assets/images/yeondu_pc.jpg#full)
 
 #### 모바일
-![Mobile kor](/assets/images/yeondu_m.jpg)
+![Mobile kor](/assets/images/yeondu_m.jpg#full)
 
 
 1. 머머머 개선
