@@ -2,10 +2,10 @@
 layout: post
 title: "Polaroid Williamsburg"
 date: 2017-10-23
-description: 
-image: /assets/images/placeholder-9.jpg
+description:
+image: /assets/images/cncicd2
 author: Thomas Vaeth
-tags: 
+tags:
   - Dummy Text
   - Moon Drinking
   - Kale

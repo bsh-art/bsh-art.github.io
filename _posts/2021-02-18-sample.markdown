@@ -3,7 +3,7 @@ layout: post
 title: 월드비전 "위기의 아이들을 돕는 정기후원" 프로모션
 date: 2019-07-01
 description: 월드비전 "위기의 아이들을 돕는 정기후원" 작은 쪽방, 생후 3개월 연두의 여름나기 프로젝트 디자인 진행
-image: /assets/images/2019_worldvs.png
+image: /assets/images/cncicd.jpg
 author: 방승화
 tags:
   - 반응형
@@ -11,6 +11,7 @@ tags:
   - 상세페이지
   - 이벤트
 ---
+
 > 월드비전 "위기의 아이들을 돕는 정기후원" 작은 쪽방, 생후 3개월 연두의 여름나기 프로젝트 디자인 진행
 
 PC 웹 / M 워드프레스 별도로 운영되는 가이드라인에 맞추어 M은 워드프레스 별도 작업<br>
@@ -25,6 +26,13 @@ PC 웹 / M 워드프레스 별도로 운영되는 가이드라인에 맞추어 M
 ## 시안
 
 #### PC
+
+
+![pc kor](/assets/images/cncicd3.jpg)
+
+#### 모바일
+![Mobile kor](/assets/images/cncicd4.jpg)
+
 ![pc kor](/assets/images/yeondu_pc.jpg)
 
 #### 모바일
