@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coloring Book"
+title: "긴제목은 몇줄까지 노출 되는지 테스트를 해보자. 커피는 아이스 바닐라 라떼 샷추가3 시럽 하나 빼고 "
 date: 2017-10-22
 description:
 image: /assets/images/placeholder-8.jpg
