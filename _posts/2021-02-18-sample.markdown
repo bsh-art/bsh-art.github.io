@@ -11,6 +11,8 @@ tags:
   - 상세페이지
   - 이벤트
 ---
+프로모션
+
 
 <blockquote>
   <p>blockquote 강조할 제목을 만든다.”</p>
