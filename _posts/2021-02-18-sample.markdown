@@ -11,15 +11,21 @@ tags:
   - 상세페이지
   - 이벤트
 ---
-프로모션
+Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
 
+* Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
+* Church-key crucifix messenger bag health goth
+* Try-hard artisan direct trade
+* Cold-pressed selfies
 
-<blockquote>
-  <p>blockquote 강조할 제목을 만든다.”</p>
-  <cite>cite태그는 아래 인용문쓰기 태그</cite>
-</blockquote>
+1. Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.
+2. Church-key crucifix messenger bag health goth
+3. Try-hard artisan direct trade
+4. Cold-pressed selfies
 
-PC 웹 / M 워드프레스 별도로 운영되는 가이드라인에 맞추어 M은 워드프레스 별도 작업<br>
+### Subway tile
+Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+
 ※ [PC 프로모션 바로가기](https://www.worldvision.or.kr/campaign/2019/yeondu.asp), [M 프로모션 바로가기](http://m.worldvision.or.kr/story/yeondu/)
 
 
