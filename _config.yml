@@ -8,7 +8,7 @@ name: BSH
 title: BSH Portflio :)
 description: >
   방승화 디자인 포트폴리오
-url: https://bsh-art.github.io
+url: #
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
@@ -47,7 +47,7 @@ pagination:
   per_page: 12
   permalink: '/page/:num/'
   title: ':title'
-  limit: 0
+  limit: 10
   sort_field: 'date'
   sort_reverse: true
 autopages:
