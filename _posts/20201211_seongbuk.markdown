@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "긴제목은 몇줄까지 노출 되는지 테스트를 해보자. 커피는 아이스 바닐라 라떼 샷추가3 시럽 하나 빼고 "
-date: 2017-10-22
+title: "성북문화재단"
+date: 2020-12-11
 description:
-image: /assets/images/placeholder-8.jpg
-author: Thomas Vaeth
+image: /assets/images/sungbuk01.jpg
+author: bsh
 tags:
-  - Squid
-  - Moon Drinking
-  - Kale
+  - 제안시안
+  - 반응형
 ---
-신규구축
+제안시안
 
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1.
 
@@ -18,7 +17,7 @@ YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh
 
 Hammock whatever paleo, crucifix affogato vice actually vape dreamcatcher franzen fixie hella tofu everyday carry. Keytar gluten-free VHS, wolf scenester swag roof party listicle. Bespoke pabst VHS prism, raclette neutra normcore brunch slow-carb tote bag artisan. Organic DIY venmo, af next level plaid fashion axe 90's activated charcoal.
 
-![Placeholder](/assets/images/placeholder-30.jpg#full)
+![Placeholder](/assets/images/sungbuk01.jpg#full)
 
 Ramps master cleanse normcore affogato selvage, squid readymade craft beer listicle. Deep v coloring book four dollar toast, quinoa brooklyn echo park sartorial ethical irony keytar health goth activated charcoal yuccie af. Before they sold out pug humblebrag lomo, banjo food truck cray.
 
