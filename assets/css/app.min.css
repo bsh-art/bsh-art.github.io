@@ -843,7 +843,7 @@
 
 @media (min-width:32em) {
   .post__author, .post__bio, .posts__text, .related__text {
-    font-size: 1.25em
+    font-size: 1em
   }
 }
 
@@ -2233,7 +2233,7 @@ main {
 }
 
 .posts__text {
-  font-weight: 400
+  font-weight: 300
 }
 
 @media (min-width:32em) {
