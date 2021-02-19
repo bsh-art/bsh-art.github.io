@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 월드비전 "위기의 아이들을 돕는 정기후원" 프로모션
-date: 2019-07-01
+date: 2021-02-01
 description:
-image: /assets/images/cncicd3.jpg
+image: /assets/images/thumnail/cncicd3.jpg
 author: 방승화
 tags:
   - 반응형
@@ -44,7 +44,7 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
 의료서비스를 형상화한 십자 마크는 맞춤형 감염병 관리대책을 수립·시행함으로써 충청남도에 감염병 발생 시 신속한 대응을 할 수 있도록 지원한다는 의지를 표현한 것입니다. 십자 마크의 라인은 서로 유기적으로 연결된 원활한 소통과 유연성을 의미해서 감염병으로부터 충청남도민을 더 안전하게 보호하며 예방하는 것을 상징합니다.
 
 #### 모바일
-![Mobile kor](/assets/images/cncicd4.jpg#full)
+![Mobile kor](/assets/images/cncicd4.jpg)
 
 ![pc kor](/assets/images/yeondu_pc.jpg)
 
