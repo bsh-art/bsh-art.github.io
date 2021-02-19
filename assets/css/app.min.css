@@ -1139,7 +1139,7 @@ button:hover:after {
 }
 
 code, kbd, pre, samp {
-  font-family: SpoqaLight ,Courier, monospace;
+  font-family: spoqa ,Courier, monospace;
   font-size: .9em
 }
 
@@ -2101,7 +2101,7 @@ main {
 
 @media (min-width:32em) {
   #markdown p {
-    font-size: 1.25em
+    font-size: 1em
   }
 }
 
