@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'GmarketSansLight';
     src:local('GmarketSansLight'), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
     font-weight: 100;
@@ -17,7 +17,10 @@
     src:local('GmarketSansBold'), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
-}
+} */
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+* { font-family: 'Spoqa', 'sans-serif'; }
 
 @font-face {
   font-family: Roboto;
@@ -1136,7 +1139,7 @@ button:hover:after {
 }
 
 code, kbd, pre, samp {
-  font-family: GmarketSansLight ,Courier, monospace;
+  font-family: SpoqaLight ,Courier, monospace;
   font-size: .9em
 }
 
@@ -1195,7 +1198,7 @@ input, textarea {
   width: 100%;
   max-width: 100%;
   padding: .75em .5em;
-  font-family: GmarketSansMedium, sans-serif;
+  font-family: Spoqa, sans-serif;
   font-size: .9em;
   font-weight: 400;
   color: #000;
@@ -1362,7 +1365,7 @@ iframe {
 }
 
 body {
-  font-family: GmarketSansMedium, sans-serif;
+  font-family: Spoqa, sans-serif;
   line-height: 1.7;
   color: #333;
   background-color: #fff
@@ -1420,7 +1423,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2:not(.posts__text):not(.related__text) {
-  font-family: GmarketSansMedium, sans-serif;
+  font-family: Spoqa, sans-serif;
   font-size: 2em;
   line-height: 1.4
 }
@@ -1438,7 +1441,7 @@ p {
 
 blockquote, q {
   margin: 0 0 1.5rem;
-  font-family: GmarketSansMedium, serif;
+  font-family: Spoqa, serif;
   font-weight: 400;
   font-size: 1.25em;
   color: #000;
@@ -1453,7 +1456,7 @@ blockquote, q {
 
 cite {
   display: block;
-  font-family: GmarketSansMedium, sans-serif;
+  font-family: Spoqa, sans-serif;
   font-size: .6em;
   font-style: normal;
   color: #000;
@@ -2038,7 +2041,7 @@ main {
 }
 
 #style-guide #markdown, .post-layout #markdown {
-  font-family: GmarketSansMedium, sans-serif
+  font-family: Spoqa, sans-serif
 }
 
 #markdown>* {
@@ -2055,7 +2058,7 @@ main {
 
 #markdown h1, #markdown h2, #markdown h3, #markdown h4, #markdown h5, #markdown h6 {
   margin-bottom: .5rem;
-  font-family: GmarketSansLight, sans-serif
+  font-family: Spoqa, sans-serif
 }
 
 #markdown h1 {
