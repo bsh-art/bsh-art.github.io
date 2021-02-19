@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 월드비전 "위기의 아이들을 돕는 정기후원" 프로모션
-date: 2021-02-01
+title: 한국도박문제관리센터 사이트 구축
+date: 2020-11-28
 description:
 image: /assets/images/thumnail/cncicd3.jpg
 author: 방승화
