@@ -2,8 +2,9 @@
 layout: post
 title: 한국도박문제관리센터 사이트 구축
 date: 2020-11-28
+cate : 구축
 description:
-image: /assets/images/thumnail/cncicd3.jpg
+image: /assets/images/thum/cncicd3.jpg
 author: 방승화
 tags:
   - 반응형
@@ -11,36 +12,41 @@ tags:
   - 상세페이지
   - 이벤트
 ---
-푸시 테스트
+<h3>한국도박문제관리센터 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+##### 디자인 참여도
+<pre>
+<code>
+1. 구축100%
+2. 이벤트 100%
+</code>
+</pre>
 
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
-
-### Subway tile
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
-
-※ [PC 프로모션 바로가기](https://www.worldvision.or.kr/campaign/2019/yeondu.asp), [M 프로모션 바로가기](http://m.worldvision.or.kr/story/yeondu/)
+퍼블리셔, 개발자 용 제작 가이드 정립, 배포
+디자인 가이드 디자인 하여 PDF 문서로 산출물 배포 시 업체 제공
+예시 파일의 내용 보안상 블러처리 하였음.
 
 
-##### 디자인참여도
-* 제작 메인/모바일 메인 100%
-* 스타일가이드제작
-* 디자인 컨셉정의
+##### 제안 디자인
+![pc_main](/assets/images/post/spac_pc.jpg)
+![pc_main](/assets/images/post/spac_pc.jpg)
 
+##### 메인 디자인
+![pc_main](/assets/images/post/spac_pc.jpg)
+![pc_main](/assets/images/post/spac_eng.jpg)
 
-##### 시안
+##### 모바일 디자인
+![pc_main](/assets/images/post/spac_m.jpg)
 
-![pc kor](/assets/images/cncicd.jpg#full)
+##### 컨텐츠 디자인
+![pc_main](/assets/images/post/spac_sub01.jpg)
+![pc_main](/assets/images/post/spac_sub02.jpg)
+![pc_main](/assets/images/post/spac_sub03.jpg)
 
-의료서비스를 형상화한 십자 마크는 맞춤형 감염병 관리대책을 수립·시행함으로써 충청남도에 감염병 발생 시 신속한 대응을 할 수 있도록 지원한다는 의지를 표현한 것입니다. 십자 마크의 라인은 서로 유기적으로 연결된 원활한 소통과 유연성을 의미해서 감염병으로부터 충청남도민을 더 안전하게 보호하며 예방하는 것을 상징합니다.
+##### 디자인 가이드
+퍼블리셔, 개발자 용 제작 가이드 정립, 배포
+디자인 가이드 디자인 하여 PDF 문서로 산출물 배포 시 업체 제공
+예시 파일의 내용 보안상 블러처리 하였음.
 
-#### 모바일
-![Mobile kor](/assets/images/cncicd4.jpg)
-
-![pc kor](/assets/images/yeondu_pc.jpg)
-
-#### 모바일
-![Mobile kor](/assets/images/yeondu_m.jpg)
-
-1. 머머머 개선
-2. 화사하게 변경
-3. 넘버링 숫자 양식
+![pc_main](/assets/images/post/spac_gd.jpg)
