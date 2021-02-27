@@ -2,6 +2,7 @@
 layout: post
 title: 문화체육관광부 "서울예술단(blue)"
 date: 2020-12-11
+cate : 제안
 description:
 image: /assets/images/thum/2018_blue.png
 author: bsh
