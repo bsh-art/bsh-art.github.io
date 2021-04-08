@@ -17,10 +17,6 @@ tags:
 <br><br><br><br><br><br>
 <hr>
 
-<blockquote>
-  <p>한국도박문제관리센터 구축</p>
-</blockquote>
-
 ##### 디자인 참여도
 <pre>
 <code>
