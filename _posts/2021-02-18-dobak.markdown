@@ -12,9 +12,15 @@ tags:
   - 상세페이지
   - 이벤트
 ---
+
 <h3>한국도박문제관리센터 구축</h3>
 <br><br><br><br><br><br>
 <hr>
+
+<blockquote>
+  <p>한국도박문제관리센터 구축</p>
+</blockquote>
+
 ##### 디자인 참여도
 <pre>
 <code>
@@ -23,24 +29,14 @@ tags:
 </code>
 </pre>
 
+<p>
 다양한 예방과 홍보, 치유 및 재활 서비스, 도박문제 관련 연구, 도박중독 분야 전문인력 양성 등 전문적인 서비스를 제공하는
 한국도박문제관리센터
 
 패럴렉스 디자인으로 화려하게 표현함
 1단은 주요 정보를 2단은 각 지역센터와 주요 사업을 3단은 각종 공지와 sns로 소통을 강조함
+</p>
 
 
-
-##### 제안 디자인
-![pc_main](/assets/images/dobak/view01.jpg)
-
-##### 메인 디자인
-
-
-##### 모바일 디자인
-![pc_main](/assets/images/post/spac_m.jpg)
-
-##### 컨텐츠 디자인
-
-
-##### 디자인 가이드
+##### 상세 페이지
+![pc_main](/assets/images/dobak/view01.jpg#full alt="full image")
