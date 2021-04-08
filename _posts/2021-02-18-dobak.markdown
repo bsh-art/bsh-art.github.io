@@ -32,8 +32,8 @@ tags:
 패럴렉스 디자인으로 화려하게 표현함
 1단은 주요 정보를 2단은 각 지역센터와 주요 사업을 3단은 각종 공지와 sns로 소통을 강조함
 </p>
-</br>
-</br>
+<br>
+<br>
 
 ##### 상세 페이지
 ![pc_main](/assets/images/dobak/view01.jpg#full)
