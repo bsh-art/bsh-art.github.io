@@ -40,4 +40,4 @@ tags:
 
 ##### 상세 페이지
 <img src="/assets/images/dobak/wview01.jpg#full" alt="Full Image"/>
-![pc_main](/assets/images/dobak/view01.jpg#full alt="full image")
+[pc_main](/assets/images/dobak/view01.jpg#full alt="full image")
