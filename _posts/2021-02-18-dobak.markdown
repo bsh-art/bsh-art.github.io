@@ -30,7 +30,7 @@ tags:
 </pre>
 
 <p>
-다양한 예방과 홍보, 치유 및 재활 서비스, 도박문제 관련 연구, 도박중독 분야 전문인력 양성 등 전문적인 서비스를 제공하는
+ 치유 및 재활 서비스, 도박문제 관련 연구, 도박중독 분야 전문인력 양성 등 전문적인 서비스를 제공하는
 한국도박문제관리센터
 
 패럴렉스 디자인으로 화려하게 표현함
@@ -39,5 +39,4 @@ tags:
 
 
 ##### 상세 페이지
-
-[pc_main](/assets/images/dobak/view01.jpg#full alt="full image")
+![pc_main](/assets/images/dobak/view01.jpg#full alt="full image")
