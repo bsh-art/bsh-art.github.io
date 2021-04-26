@@ -8,7 +8,7 @@ image: /assets/images/GT/main.jpg
 author: 방승화
 tags:
   - 로고디자인
-
+---
 
 <h3>GT innovision 로고제작</h3>
 <br><br><br><br><br><br>
