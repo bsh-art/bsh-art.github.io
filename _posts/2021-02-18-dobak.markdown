@@ -4,7 +4,7 @@ title: 한국도박문제관리센터 사이트 구축
 date: 2020-11-28
 cate : 구축
 description:
-image: /assets/images/dobak/main.jpg
+image: /assets/images/kcgp/main.jpg
 author: 방승화
 tags:
   - 반응형
@@ -36,4 +36,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/dobak/view01.jpg#full)
+![pc_main](/assets/images/kcgp/view.jpg#full)
