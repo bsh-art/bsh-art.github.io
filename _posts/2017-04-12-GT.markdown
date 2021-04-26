@@ -4,7 +4,7 @@ title: GT innovision 로고제작
 date: 2017-04-12
 cate : 로고인쇄
 description:
-image: /assets/images/GT/main.jpg#full
+image: /assets/images/GT/main.jpg
 author: 방승화
 tags:
   - 로고디자인
@@ -30,4 +30,4 @@ GT innovision의 로고디자인으로 블루와 그레이 컬러, 가독성 높
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/GT/view.jpg){: width="1500px"}
+![pc_main](/assets/images/GT/view.jpg){: width="1200px"}
