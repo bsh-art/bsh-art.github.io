@@ -1,0 +1,36 @@
+---
+layout: post
+title: 베트남 하노이 그랜드 호텔 사이트 구축
+date: 2019-01-23
+cate : 구축
+description:
+image: /assets/images/hanoi/main.jpg
+author: 방승화
+tags:
+  - 반응형
+  - 상세페이지
+---
+
+<h3>베트남 하노이 그랜드 호텔 사이트 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 제작 메인 100%
+2. 제작 컨텐츠 100%
+</code>
+</pre>
+
+<p>
+베트남 하노이 그랜드 호텔은
+고급스러운 골드 인테리어를 강조한 메인 비주얼로 주목성을 높히고
+브라운 컬러를 기반으로 단아하게 디자인함
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/hanoi/view.jpg){: width="1500px"}
