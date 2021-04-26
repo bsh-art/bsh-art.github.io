@@ -35,5 +35,5 @@ tags:
 <br>
 
 ##### 상세 페이지
-<iframe src="#" width="1200" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="/assets/images/khus/view.jpg" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ![pc_main](/assets/images/khus/view.jpg width="1200" height="315")
