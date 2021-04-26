@@ -1,39 +1,33 @@
 ---
 layout: post
-title: 경희대학교 법인 사이트 구축
-date: 2021-03-23
-cate : 구축
+title: GT innovision 로고제작
+date: 2017-04-12
+cate : 로고인쇄
 description:
-image: /assets/images/khus/main.jpg#full
+image: /assets/images/GT/main.jpg#full
 author: 방승화
 tags:
-  - 반응형
-  - 유지보수
-  - 상세페이지
----
+  - 로고디자인
 
-<h3>경희대학교 법인 사이트 구축</h3>
+
+<h3>GT innovision 로고제작</h3>
 <br><br><br><br><br><br>
 <hr>
 
 ##### 디자인 참여도
 <pre>
 <code>
-1. 제작 메인 100%
-2. 제작 컨텐츠 100%
+1. 로고디자인 100%
 </code>
 </pre>
 
 <p>
-경희대학교 법인 홈페이지로
-1단은 모션이 들어간 비주얼로 주목성을 주고
-2단 포커스 공지 등 정보를 깔끔하게 정리하여 노출하고
-마지막 단은 법인의 각종 멀티미디어 자료들을 배치하여 단아하고 깔끔하게 정리함
-컬러는 경희대학교 블루, 레드, 골드를 사용하여 고급스러움을 배가시킴
+GT innovision의 로고디자인으로 블루와 그레이 컬러, 가독성 높은 깔끔한 폰트를 사용하여
+간결하게 표현함
 
 </p>
 <br>
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/khus/view.jpg){: width="1200px" height="2329px"}
+![pc_main](/assets/images/GT/view.jpg){: width="1500px"}
