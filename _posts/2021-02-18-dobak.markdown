@@ -38,4 +38,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/kcgp/view.jpg)
+![pc_main](/assets/images/kcgp/view.jpg#full)
