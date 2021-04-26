@@ -36,4 +36,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/khus/view.jpg){: width="1500px"}
+![pc_main](/assets/images/khus/view.jpg){: width="1200px" height="2329px"}
