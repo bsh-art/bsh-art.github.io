@@ -1,0 +1,35 @@
+---
+layout: post
+title: EBS 한국사탐방 유지운영
+date: 2019-05-30
+cate : 유지운영
+description:
+image: /assets/images/ebs/main.jpg
+author: 방승화
+tags:
+  - 이벤트
+  - 컨텐츠 디자인
+---
+
+<h3>EBS 한국사탐방 유지운영</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 이벤트 디자인 100%
+2. 컨텐츠 디자인 100%
+</code>
+</pre>
+
+<p>
+EBS의 어린이 한국사 역사탐방
+시즌별 각종 이벤트 디자인
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/ebs/view.jpg)
