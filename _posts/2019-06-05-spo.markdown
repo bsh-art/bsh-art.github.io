@@ -1,0 +1,33 @@
+---
+layout: post
+title: 서울시립교향악단 제안시안
+date: 2019-06-05
+cate : 제안
+description:
+image: /assets/images/spo/main.jpg
+author: 방승화
+tags:
+  - 반응형
+  - 상세페이지
+---
+
+<h3>서울시립교향악단 제안시안</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 메인 반응형 100%
+2. 서브 디자인 100%
+</code>
+</pre>
+
+<p>
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/khus/view.jpg){: width="1500px"}

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 궁중문화축전 제안시안
+date: 2018-09-27
+cate : 구축
+description:
+image: /assets/images/gj/main.jpg
+author: 방승화
+tags:
+- 반응형
+---
+
+<h3>궁중문화축전 제안시안</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 메인 반응형 100%
+
+</code>
+</pre>
+
+<p>
+화려한 야경의 궁을 배경으로 세로 텍스트 배열로 비주얼단을 주목시킴
+</p>
+<p>
+각 궁 아이콘으로 해당 축제 바로가기를 노출하고 아랫단에 갤러리형 공지를 배치함
+궁 일러스트를 은은하게 디자인하여 완성도를 높힘   
+</p>
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/gj/view.jpg)

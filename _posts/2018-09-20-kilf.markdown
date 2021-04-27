@@ -1,0 +1,36 @@
+---
+layout: post
+title: 한국지방세연구원 사이트 구축
+date: 2018-09-20
+cate : 구축
+description:
+image: /assets/images/kilf/main.jpg
+author: 방승화
+tags:
+  - 반응형
+  - 상세페이지
+---
+
+<h3>한국지방세연구원 사이트 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 제작 메인 100%
+2. 제작 컨텐츠 100%
+</code>
+</pre>
+
+<p>
+차분한 그린 컬러로 연구원의 학술적인 이미지 부각시킨 심플한 2단 레이아웃으로 메인 구성
+</p>
+<p>
+컨텐츠 페이지들은 라운드 다이어그램을 이용하여 부드럽게 구성함
+오렌지, 브라운, 그린 컬러를 조화롭게 사용함</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/kilf/view.jpg){: width="1500px"}

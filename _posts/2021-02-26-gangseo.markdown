@@ -1,0 +1,39 @@
+---
+layout: post
+title: NKMAX 사이트 구축
+date: 2019-06-24
+cate : 구축
+description:
+image: /assets/images/nkmax/main.jpg
+author: 방승화
+tags:
+- 반응형
+- 유지보수
+- 상세페이지
+---
+
+<h3>NKMAX 사이트 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 제작 메인/컨텐츠 100%
+2. 이벤트 100%
+</code>
+</pre>
+
+<p>
+NKMAX는‘인류 건강과 행복추구를 위한 가치 실현’을 기업 이념으로 건강의 가장 기본이 되는‘면역력’에 집중하고, 이를 활용한 면역세포치료를 포함한 면역전문 헬스케어 솔루션을 제공하는 바이오기업
+</p>
+<p>
+블루 포인트 컬러 사용, 시원시원한 포토비주얼 패럴렉스 스타일로 기업의 전문적인 이미지 배가시킴
+</p>
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/GT/view.jpg){: width="1200px"}
