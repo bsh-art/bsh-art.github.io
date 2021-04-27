@@ -4,7 +4,7 @@ title: 경희대학교 법인 사이트 구축
 date: 2021-03-23
 cate : 구축
 description:
-image: /assets/images/khus/main.jpg#full
+image: /assets/images/invest/main.jpg#full
 author: 방승화
 tags:
   - 반응형
@@ -36,4 +36,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/khus/view.jpg){: width="1500px"}
+![pc_main](/assets/images/invest/view.jpg){: width="1500px"}

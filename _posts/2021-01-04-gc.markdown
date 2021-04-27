@@ -4,7 +4,7 @@ title: NKMAX 사이트 구축
 date: 2019-06-24
 cate : 구축
 description:
-image: /assets/images/nkmax/main.jpg
+image: /assets/images/gc/main.jpg
 author: 방승화
 tags:
 - 반응형
@@ -36,4 +36,4 @@ NKMAX는‘인류 건강과 행복추구를 위한 가치 실현’을 기업 �
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/GT/view.jpg){: width="1200px"}
+![pc_main](/assets/images/gc/view.jpg){: width="1200px"}
