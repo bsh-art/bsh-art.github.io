@@ -5,7 +5,7 @@ date: 2016-12-21
 description:
 image: /assets/images/hanafarm/main.jpg
 author: 방승화
-tags:
+tags: 로고인쇄
   - 로고디자인
 ---
 
