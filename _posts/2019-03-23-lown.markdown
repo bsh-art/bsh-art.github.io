@@ -4,7 +4,7 @@ title: 로운식품 로고디자인
 date: 2019-03-23
 cate : 로고인쇄
 description:
-image: /assets/images/lown/main.jpg#full
+image: /assets/images/lown/main.jpg
 author: 방승화
 tags:
   - 로고디자인
