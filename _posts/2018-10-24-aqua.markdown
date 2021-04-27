@@ -1,0 +1,37 @@
+---
+layout: post
+title: 신세계 아쿠아필드 유지운영
+date: 2018-10-24
+cate : 유지운영
+description:
+image: /assets/images/aqua/main.jpg
+author: 방승화
+tags:
+- 도면 일러스트
+- 유지보수
+- 이벤트
+- 상세페이지
+---
+
+<h3>신세계 아쿠아필드 유지운영</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 도면 일러스트 100%
+2. 이벤트 100%
+</code>
+</pre>
+
+<p>
+신세계 아쿠아필드 각종 이벤트, 도면 일러스트, 인트로 페이지 디자인 진행
+</p>
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/aqua/view.jpg)

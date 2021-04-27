@@ -2,10 +2,11 @@
 layout: post
 title: 하나팜 로고디자인
 date: 2016-12-21
+cate : 로고인쇄
 description:
 image: /assets/images/hanafarm/main.jpg
 author: 방승화
-tags: 로고인쇄
+tags: 
   - 로고디자인
 ---
 
