@@ -1,0 +1,37 @@
+---
+layout: post
+title: 서울시정신건강복지센터 블루터치 유지운영
+date: 2019-01-01
+cate : 유지운영
+description:
+image: /assets/images/blutouch/main.jpg
+author: 방승화
+tags:
+  - 이벤트
+  - 자가검진 디자인
+  - 뉴스레터
+  - 운영관리
+---
+
+<h3>GT innovision 로고제작</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 이벤트 디자인 100%
+2. 뉴스레터 디자인 100%
+</code>
+</pre>
+
+<p>
+서울시 정신건강복지센터 블루터치는 서울 시민들의 정신건강을 자가검진, 각종 이벤트 등을 통해 지원합니다.
+따뜻한 느낌으로 다양한 검진 시스템 디자인, 뉴스레터 이벤트 디자인 진행함.
+
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/blutouch/view.jpg)
