@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 경희대학교 법인 사이트 구축
-date: 2021-03-23
+title: 잠언코스메틱 사이트 구축
+date: 2020-05-19
 cate : 구축
 description:
 image: /assets/images/jamun/main.jpg#full
@@ -12,7 +12,7 @@ tags:
   - 상세페이지
 ---
 
-<h3>경희대학교 법인 사이트 구축</h3>
+<h3>잠언코스메틱 사이트 구축</h3>
 <br><br><br><br><br><br>
 <hr>
 
@@ -25,15 +25,11 @@ tags:
 </pre>
 
 <p>
-경희대학교 법인 홈페이지로
-1단은 모션이 들어간 비주얼로 주목성을 주고
-2단 포커스 공지 등 정보를 깔끔하게 정리하여 노출하고
-마지막 단은 법인의 각종 멀티미디어 자료들을 배치하여 단아하고 깔끔하게 정리함
-컬러는 경희대학교 블루, 레드, 골드를 사용하여 고급스러움을 배가시킴
+블랙 앤 화이트로 간결한 가로 2단 디자인
 
 </p>
 <br>
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/jamun/view.jpg){: width="1500px"}
+![pc_main](/assets/images/jamun/view.jpg)
