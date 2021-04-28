@@ -36,6 +36,8 @@ tags:
 기획, 모델촬영, 기구디자인 관리, 외장디자인 pop디자인
 UI기획, 디자인, 낙서디자인
 프로그램 검수 등 모든 디자인 영역 담당
+</p>
+
 <p>
 핑크, 민트 컬러로 여성스럽고 화려한 느낌의 합성 기능이 가능한 스티커사진기기 개발
 </p>
@@ -44,4 +46,4 @@ UI기획, 디자인, 낙서디자인
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/bling/view.jpg)
+![pc_main](/assets/images/bling/view.jpg){: width="1200px"}
