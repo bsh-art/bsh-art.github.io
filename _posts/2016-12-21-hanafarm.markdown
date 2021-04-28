@@ -6,7 +6,7 @@ cate : 로고인쇄
 description:
 image: /assets/images/hanafarm/main.jpg
 author: 방승화
-tags: 
+tags:
   - 로고디자인
 ---
 
@@ -33,4 +33,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/hanafarm/view.jpg){: width="1500px"}
+![pc_main](/assets/images/bling/view.jpg){: width="1500px"}
