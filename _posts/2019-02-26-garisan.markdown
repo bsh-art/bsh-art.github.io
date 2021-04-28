@@ -1,0 +1,39 @@
+---
+layout: post
+title: 가리산 1051 와인 로고시안
+date: 2019-02-26
+cate : 로고인쇄
+description:
+image: /assets/images/garisan/main.jpg
+author: 방승화
+tags:
+  - 반응형
+  - 유지보수
+  - 상세페이지
+---
+
+<h3>가리산 1051 와인 로고시안</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 로고디자 100%
+2. 제작 컨텐츠 100%
+</code>
+</pre>
+
+<p>
+가리산 1051은 고급스러운 영문 엠블럼으 붉은 와인과 가리산의 정기와 인삼 홍삼의 이미지를 결합하 부드러우면서도 고급스러운 형태로 조합한 디자인입니다.
+</p>
+<p>
+세련된 그레이 컬러 조합을 기본으로 와인병과 GARISAN 텍스트에 와인색 포인트를 주었고
+폰트는 Cinzel Bold로 고급스러우면서도 가독성이 떨어지지 않게 표현하였습니다.
+</p>
+
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/garisan/view.jpg)
