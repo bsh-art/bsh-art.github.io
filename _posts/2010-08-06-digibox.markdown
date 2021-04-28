@@ -1,0 +1,45 @@
+---
+layout: post
+title: 디지박스 증명사진기기 제작
+date: 2010-08-06
+cate : 제품제작
+description:
+image: /assets/images/digibox/main.jpg
+author: 방승화
+tags:
+  - 로고디자인
+  - 제품기획
+  - 외장 디자인
+  - 각종 pop 디자인
+  - UI 디자인
+  - 브로슈어 디자인
+---
+
+<h3>디지박스 증명사진기기 제작</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 스티커사진 기기 외장, pop 디자인  100%
+2. UI 디자인, 낙서 디자인 100%
+</code>
+</pre>
+
+<p>
+디지박스 증명사진기기 제작
+</p>
+<p>
+기획, 모델촬영, 외장디자인 pop디자인
+UI기획, 디자인, 낙서디자인
+프로그램 검수 등 모든 디자인 영역 담당
+<p>
+블루 컬러를 기반으로 모델 이미지를 사용하여 화려하게 주목성 높은 디자인 작업
+합성사진이 가능한 증명사진기기 디자인</p>
+
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/digibox/view.jpg)

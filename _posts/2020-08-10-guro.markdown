@@ -1,0 +1,37 @@
+---
+layout: post
+title: 구로문화재단 제안시안
+date: 2020-08-10
+cate : 제안
+description:
+image: /assets/images/guro/main.jpg#full
+author: 방승화
+tags:
+  - 반응형
+
+---
+
+<h3>구로문화재단 제안시안</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+1. 메인 100%
+2. 반응형 100%
+</code>
+</pre>
+
+<p>
+구로문화재단의 슬로건을 비주얼단에 노출하고
+2단은 각종 공연정보, 3단은 소식존으로 sns와 공지사항을 노출하고 하단에 공연장 정보들을 한눈에 알아볼 수 있도록 표현함 </p>
+<p>
+포인트 컬러는 주황, 브라운으로 따뜻한 느낌을 전달함
+</p>
+
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/guro/view.jpg){: width="1500px"}
