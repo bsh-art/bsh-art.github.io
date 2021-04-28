@@ -35,4 +35,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/blutouch/view.jpg)
+![pc_main](/assets/images/blutouch/view.jpg#full)
