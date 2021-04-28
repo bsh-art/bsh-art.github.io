@@ -2,7 +2,7 @@
 layout: post
 title: 궁중문화축전 제안시안
 date: 2018-09-27
-cate : 구축
+cate : 제안
 description:
 image: /assets/images/gj/main.jpg
 author: 방승화
@@ -28,7 +28,6 @@ tags:
 <p>
 각 궁 아이콘으로 해당 축제 바로가기를 노출하고 아랫단에 갤러리형 공지를 배치함
 궁 일러스트를 은은하게 디자인하여 완성도를 높힘   
-</p>
 
 </p>
 <br>

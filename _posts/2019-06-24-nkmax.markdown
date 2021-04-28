@@ -29,11 +29,11 @@ NKMAX는‘인류 건강과 행복추구를 위한 가치 실현’을 기업 �
 </p>
 <p>
 블루 포인트 컬러 사용, 시원시원한 포토비주얼 패럴렉스 스타일로 기업의 전문적인 이미지 배가시킴
-</p>
+
 
 </p>
 <br>
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/GT/view.jpg){: width="1200px"}
+![pc_main](/assets/images/nkmax/view.jpg){: width="1200px"}

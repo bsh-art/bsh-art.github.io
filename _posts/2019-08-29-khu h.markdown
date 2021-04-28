@@ -1,18 +1,16 @@
 ---
 layout: post
-title: 강동 경희대학교병원 제안시안
+title: 강동경희대학교병원 제안시안
 date: 2019-08-29
-cate : 제
+cate : 제안
 description:
 image: /assets/images/khu h/main.jpg#full
 author: 방승화
 tags:
   - 반응형
-  - 유지보수
-  - 상세페이지
 ---
 
-<h3>경희대학교 법인 사이트 구축</h3>
+<h3>강동경희대학교병원 제안시안</h3>
 <br><br><br><br><br><br>
 <hr>
 
@@ -39,4 +37,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/khu h/view.jpg){: width="1500px"}
+![pc_main](/assets/images/khu h/view.jpg)

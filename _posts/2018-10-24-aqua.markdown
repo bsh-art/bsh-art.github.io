@@ -29,9 +29,9 @@ tags:
 신세계 아쿠아필드 각종 이벤트, 도면 일러스트, 인트로 페이지 디자인 진행
 </p>
 
-</p>
+
 <br>
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/aqua/view.jpg)
+![pc_main](/assets/images/aqua/view.jpg#full)
