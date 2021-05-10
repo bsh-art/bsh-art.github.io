@@ -5,12 +5,12 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: BSH
-title: BSH Portflio :)
+title: BSH Portfolio :)
 description: >
   방승화 디자인 포트폴리오
 url: #
 twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/seo2.jpg
 #social:
 #  - name: twitter
 #    url: https://twitter.com/thomasvaeth
