@@ -1,41 +1,46 @@
 ---
 layout: post
-title: 경희대학교 법인 사이트 구축
-date: 2021-03-23
+title: KB국민은행 리브 Next 구축
+date: 2021-12-14
 cate : 구축
 description:
-image: /assets/images/khus/main.jpg#full
+image: /assets/images/liivnext/main.jpg#full
 author: 방승화
 tags:
-  - 반응형
-  - 유지보수
+  - App
+  - 구축
   - 상세페이지
 ---
 
-<h3>경희대학교 법인 사이트 구축</h3>
+<h3>KB국민은행 리브 Next 구축</h3>
 <br><br><br><br><br><br>
 <hr>
 
 ##### 디자인 참여도
 <pre>
 <code>
-1. 제작 메인 100%
-2. 제작 컨텐츠 100%
+제작 컨텐츠 80%
 </code>
 </pre>
 
 <p>
-경희대학교 법인 홈페이지로
-1단은 모션이 들어간 비주얼로 주목성을 주고
-2단 포커스 공지 등 정보를 깔끔하게 정리하여 노출하고
-마지막 단은 법인의 각종 멀티미디어 자료들을 배치하여 단아하고 깔끔하게 정리함
+KB국민은행에서 MZ세대 겨냥한 앱
 </p>
 <p>
-컬러는 경희대학교 블루, 레드, 골드를 사용하여 고급스럽게 진행
+전체적으로 깨끗한 화이트 컬러를 기반으로
+기존 KB의 옐로우 컬러를 벗어난 트랜드란 퍼블 컬러를 포인트로
+톡톡 튀는 컬러풀한 스티커, 화려하 움직임의 모션그래픽으로 표현함
+</p>
+<p>
+간편결제, 용돈조르기, 머니다이어리, 모모포켓 등 다양하고 신선한 기능으로
+소비자 니즈를 충족시킴
+</p>
+<p>
+컬러는 퍼블을 포인트로 민트, 핑크, 연두, 주황을 보조 컬러로 사용
 </p>
 
 <br>
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/khus/view.jpg){: width="1500px"}
+![pc_main](/assets/images/liivnext/view.jpg){: width="1500px"}
