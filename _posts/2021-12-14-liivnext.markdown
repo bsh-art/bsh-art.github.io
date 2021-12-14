@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KB국민은행 리브 Next
+title: KB국민은행 리브 Next App 구축
 date: 2021-12-14
 cate : 구축
 description:
