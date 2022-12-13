@@ -9,7 +9,7 @@ author: 방승화
 tags:
 - App page
 - 구축
-- PL
+- PART PL
 ---
 
 <h3>Shinhan SOL New App 구축</h3>
