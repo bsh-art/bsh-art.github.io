@@ -1,0 +1,44 @@
+---
+layout: post
+title: Matna Branding Design
+date: 2022-09-26
+cate : 구축
+description:
+image: /assets/images/matna/main.jpg#full
+author: 방승화
+tags:
+- Package Design
+- CI
+- Sticker
+- Box
+---
+
+<h3>Matna Package Design</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+제작 100%
+</code>
+</pre>
+
+<p>
+Stick Handmade Fruit Syrup
+</p>
+<p>
+과일의 청량하고 귀여운 모습을 모티브로 형상화해 디자인 함
+각 스틱의 스티커, 박스 디자인을 깔끔하게 표현함
+</p>
+<p>
+CI, Sticker, Box Design
+</p>
+<p>
+</p>
+
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/matna/view.jpg){: width="1500px"}

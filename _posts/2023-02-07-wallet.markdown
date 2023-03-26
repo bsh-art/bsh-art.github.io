@@ -1,0 +1,42 @@
+---
+layout: post
+title: KB wallet 2차 App
+date: 2023-02-07
+cate : 구축
+description:
+image: /assets/images/wallet/main.png#full
+author: 방승화
+tags:
+- App page
+- 구축
+- PA
+---
+
+<h3>KB wallet 2차 App 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도 테스트
+<pre>
+<code>
+제작 100%
+</code>
+</pre>
+
+<p>
+일상 속 새로운 재미 NFC, KB Wallet Point로 환전하기~
+</p>
+<p>
+아기자기한 2D 스타일의 일러스트와 플랫한 아이콘으로 새로운 재미를 주는 서비스를 표현함
+</p>
+<p>
+갓생살기, 외환, 일러스트, 가이드 제작
+</p>
+<p>
+</p>
+
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/wallet/view.png){: width="1500px"}
