@@ -27,7 +27,7 @@ tags:
 키움증권이 만든 비트코인 거래소 KCX
 </p>
 <p>
-유저들이 익숙한 키움증권 UI와 유사하게 가독성높게 디자인됨
+유저들이 익숙한 키움증권 UI와 유사하게 가독성 높게 디자인됨
 디자인 가이드 제작(Light, Dark)
 </p>
 <p>
@@ -37,4 +37,4 @@ tags:
 <br>
 
 ##### 상세 페이지
-![pc_main](/assets/images/kcx/view.jpg){: width="1500px"}
+![pc_main](/assets/images/kcx/view.jpg){: width="1200px"}
