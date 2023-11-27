@@ -2,7 +2,7 @@
 layout: post
 title: Matna Branding Design
 date: 2022-09-26
-cate : 구축
+cate : Branding
 description:
 image: /assets/images/matna/main.jpg#full
 author: 방승화
