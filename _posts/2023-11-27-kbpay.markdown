@@ -1,0 +1,37 @@
+---
+layout: post
+title: KB Pay App
+date: 2023-11-27
+cate : 구축
+description:
+image: /assets/images/kbpay/main.jpg#full
+author: 방승화
+tags:
+- App page
+- 구축
+- PA
+---
+
+<h3>KCX App 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+제작 100%, Sketch
+</code>
+</pre>
+
+<p>
+세상 편한 쇼핑, 여행 KB Pay에서 즐겨요
+</p>
+<p>
+쇼핑 여행 파트 프로젝트로 국민특가, 선물하기 공동구매 등의 신규 서비스 제공</p>
+<p>메인 로티 애니메이션 에프터이펙으로 제작</p>
+
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/kbpay/view.jpg){: width="1200px"}
