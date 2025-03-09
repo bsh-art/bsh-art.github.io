@@ -1,0 +1,38 @@
+---
+layout: post
+title: MG 새마을금고
+date: 2025-03-09
+cate : 구축
+description:
+image: /assets/images/mg/main.jpg#full
+author: 방승화
+tags:
+- PC
+- 구축
+- PA
+---
+
+<h3>MG 새마을금고 인터넷뱅킹 구축</h3>
+<br><br><br><br><br><br>
+<hr>
+
+##### 디자인 참여도
+<pre>
+<code>
+제작 100%, Figma, Illustrator
+</code>
+</pre>
+
+<p>
+사용친화적인 UIUX로 더욱 쉬워진 금융생활
+상품가입부터 금융거래까지 스마트한 비대면 금융생활
+</p>
+<p>
+신규개발한 3D 캐릭터와 시원시원한 사용친화적인 디자인으로
+사용성을 높힘
+</p>
+<br>
+<br>
+
+##### 상세 페이지
+![pc_main](/assets/images/mg/view.jpg){: width="1200px"}
