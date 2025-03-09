@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MG 새마을금고
+title: MG 새마을금고 인터넷뱅킹
 date: 2025-03-09
 cate : 구축
 description:
@@ -25,6 +25,8 @@ tags:
 
 <p>
 사용친화적인 UIUX로 더욱 쉬워진 금융생활
+</p>
+<p>
 상품가입부터 금융거래까지 스마트한 비대면 금융생활
 </p>
 <p>
